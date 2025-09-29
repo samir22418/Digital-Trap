@@ -1,0 +1,2 @@
+{"timestamp": "2025-09-27 13:16:34", "source_ip": "127.0.0.1", "request_uri": "/", "payload": "", "action": "Blocked (banlist) -> Honeypot"}
+{"timestamp": "2025-09-27 13:16:35", "source_ip": "127.0.0.1", "request_uri": "/", "payload": "", "action": "Blocked (banlist) -> Honeypot"}

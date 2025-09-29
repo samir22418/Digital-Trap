@@ -1,0 +1,44 @@
+2025-09-27 08:20:35,681 - ERROR - Model directory not found: D:\waf\Integrated_WAF_Orchestrator\fine_tuned_model
+2025-09-27 08:26:31,275 - ERROR - Model directory not found: D:\waf\Integrated_WAF_Orchestrator\fine_tuned_model
+2025-09-27 08:30:27,279 - ERROR - Model not loaded for inference
+2025-09-27 08:30:27,330 - ERROR - Model not loaded for inference
+2025-09-27 08:36:25,936 - ERROR - Model not loaded for inference
+2025-09-27 08:36:25,981 - ERROR - Model not loaded for inference
+2025-09-27 08:36:27,007 - ERROR - Model not loaded for inference
+2025-09-27 08:36:27,046 - ERROR - Model not loaded for inference
+2025-09-27 08:36:27,727 - ERROR - Model not loaded for inference
+2025-09-27 08:36:27,766 - ERROR - Model not loaded for inference
+2025-09-27 08:37:14,603 - ERROR - Model directory not found: D:\waf\Integrated_WAF_Orchestrator\fine_tuned_model
+2025-09-27 09:42:18,005 - ERROR - Model not loaded for inference
+2025-09-27 09:42:18,112 - ERROR - Model not loaded for inference
+2025-09-27 09:47:53,269 - ERROR - Model not loaded for inference
+2025-09-27 09:47:53,328 - ERROR - Model not loaded for inference
+2025-09-27 09:47:54,472 - ERROR - Model not loaded for inference
+2025-09-27 09:47:54,515 - ERROR - Model not loaded for inference
+2025-09-27 09:47:55,247 - ERROR - Model not loaded for inference
+2025-09-27 09:47:55,296 - ERROR - Model not loaded for inference
+2025-09-27 09:47:55,799 - ERROR - Model not loaded for inference
+2025-09-27 09:47:55,851 - ERROR - Model not loaded for inference
+2025-09-27 09:48:12,867 - ERROR - Model not loaded for inference
+2025-09-27 09:48:12,929 - ERROR - Model not loaded for inference
+2025-09-27 09:51:15,735 - ERROR - Model not loaded for inference
+2025-09-27 09:51:15,787 - ERROR - Model not loaded for inference
+2025-09-27 09:51:16,605 - ERROR - Model not loaded for inference
+2025-09-27 09:51:16,649 - ERROR - Model not loaded for inference
+2025-09-27 10:15:01,000 - ERROR - Model not loaded for inference
+2025-09-27 10:15:01,102 - ERROR - Model not loaded for inference
+2025-09-27 10:16:14,134 - ERROR - Model not loaded for inference
+2025-09-27 10:16:14,258 - ERROR - Model not loaded for inference
+2025-09-27 10:18:00,886 - ERROR - Model not loaded for inference
+2025-09-27 10:18:00,940 - ERROR - Model not loaded for inference
+2025-09-27 10:19:30,731 - ERROR - Model directory not found: D:\waf\Integrated_WAF_Orchestrator\fine_tuned_model
+2025-09-27 10:20:17,713 - ERROR - Model not loaded for inference
+2025-09-27 10:20:17,843 - ERROR - Model not loaded for inference
+2025-09-27 10:20:57,080 - ERROR - Model not loaded for inference
+2025-09-27 10:20:57,155 - ERROR - Model not loaded for inference
+2025-09-27 10:21:00,781 - ERROR - Model not loaded for inference
+2025-09-27 10:21:00,820 - ERROR - Model not loaded for inference
+2025-09-27 13:17:39,467 - ERROR - Error forwarding to http://127.0.0.1:8083/favicon.ico: 
+2025-09-27 13:18:05,812 - ERROR - Error forwarding to http://127.0.0.1:8083/: 
+2025-09-27 13:18:06,626 - ERROR - Error forwarding to http://127.0.0.1:8083/: 
+2025-09-27 13:19:38,245 - ERROR - Error forwarding to http://127.0.0.1:8083/favicon.ico: 

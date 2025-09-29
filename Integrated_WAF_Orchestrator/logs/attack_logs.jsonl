@@ -1,0 +1,2 @@
+{"timestamp": "2025-09-27 13:49:48", "source_ip": "127.0.0.1", "request_uri": "/", "payload": "", "action": "Mirrored -> WAF flagged; IP banned"}
+{"timestamp": "2025-09-27 13:49:48", "source_ip": "127.0.0.1", "request_uri": "/favicon.ico", "payload": "", "action": "Blocked (banlist) -> Honeypot"}
